@@ -1,0 +1,5 @@
+/.env
+/.vscode
+/Home.session.sql
+/node_modules
+/test.http
